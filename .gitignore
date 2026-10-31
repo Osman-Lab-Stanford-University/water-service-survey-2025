@@ -1,0 +1,31 @@
+
+# macOS system files
+.DS_Store
+.AppleDouble
+._*
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Microsoft Office temporary files
+~$*
+
+# Temporary and backup files
+*.tmp
+*.swp
+*.bak
+
+# Python temporary files
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Private research materials
+private/
+raw_data/
+participant_data/
+
+# Local environment files
+.env
+.env.*
