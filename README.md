@@ -50,7 +50,7 @@ Because the study used nonprobability convenience sampling, the resulting observ
 
 ## 4. Research ethics and participant data protection
 
-The study was conducted under **Stanford University Institutional Review Board (IRB) Protocol No. 82168**, with **Khalid K. Osman serving as Protocol Director**.
+The study was conducted under **Stanford University Institutional Review Board (IRB) Protocol No. 82168**.
 
 Participants received study information and provided electronic informed consent before participating. Participation was voluntary, and respondents could skip questions or discontinue participation.
 
@@ -124,7 +124,7 @@ The questionnaire supports several related investigations of household water-ser
 
 **Water Service Quality Score and predictive modeling**
 
-The npj Clean Water manuscript, *Operational Service Conditions are the primary predictors of Household Water Service Quality Across Heterogeneous Provision Systems*, develops and evaluates the WSQS and investigates the predictive information contained in reported service conditions, household context and stated priorities.
+The manuscript, *Operational Service Conditions are the primary predictors of Household Water Service Quality Across Heterogeneous Provision Systems*, develops and evaluates the WSQS and investigates the predictive information contained in reported service conditions, household context and stated priorities.
 
 **Standardized comparisons across provision arrangements**
 
