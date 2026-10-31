@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use or adapt the questionnaire, cite the original research preprint and identify the questionnaire release."
+title: "Household Water Service Survey (2025): English and Tamil Research Reference Questionnaires"
+type: dataset
+authors:
+  - given-names: "Aadhityaa"
+    family-names: "Mohanavelu"
+    affiliation: "Stanford University"
+  - given-names: "Khalid K."
+    family-names: "Osman"
+    affiliation: "Stanford University"
+version: "1.0.0"
+license: "CC-BY-4.0"
+keywords:
+  - "household water service"
+  - "water service quality"
+  - "water provision"
+  - "questionnaire"
+  - "English and Tamil"
+preferred-citation:
+  type: article
+  authors:
+    - given-names: "Aadhityaa"
+      family-names: "Mohanavelu"
+    - given-names: "Khalid K."
+      family-names: "Osman"
+  title: "Operational Service Conditions are the primary predictors of Household Water Service Quality Across Heterogeneous Provision Systems"
+  journal: "Research Square (preprint)"
+  year: 2026
+  doi: "10.21203/rs.3.rs-10888037/v1"
+  url: "https://doi.org/10.21203/rs.3.rs-10888037/v1"
