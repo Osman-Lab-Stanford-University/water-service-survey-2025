@@ -8,7 +8,7 @@ Osman Lab | Stanford University
 
 The Household Water Service Survey was developed by the Osman Lab at Stanford University to examine household experiences of water-service delivery across heterogeneous water provision arrangements.
 
-The instrument captures multiple dimensions of household water service, including affordability, accessibility, reliability, supply characteristics, acceptability, perceived water quality, quantity and provider responsiveness. It also collects household and socioeconomic characteristics, water-related experiences and respondents' assessments of the importance of different service dimensions.
+The survey examines multiple dimensions of household water service, including affordability, accessibility, reliability, efficiency, acceptability, perceived water quality, quantity and customer service. The broader questionnaire also collects information on water sources and uses, household characteristics, water-related experiences, responses to service challenges and households' priorities for improving water services.
 
 The survey was implemented in September 2025, primarily in Tamil Nadu, South India, with field activities in Karur, Salem and Namakkal.
 
